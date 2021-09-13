@@ -375,7 +375,7 @@ public:
             temp->next = tempPtr;
         }
     }
-/
+
     //
     //  Description Removes an integer from the front of the list
     //
