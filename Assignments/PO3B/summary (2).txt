@@ -1,0 +1,6 @@
+Total Attackers: 10000
+Total Defenders: 500
+Total Rounds: 14177
+Attackers alive: 0
+Defenders alive: 465
+Winner: Defenders
