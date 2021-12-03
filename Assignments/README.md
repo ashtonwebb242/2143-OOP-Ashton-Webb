@@ -1,9 +1,9 @@
 |# | Assignments | Assignment Description              |
 |--|-------------|-------------------------------------|          
-|1 |[P01](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/tree/main/Assignments/P01)      | Banner Page                         | 
-|2 |             | Assignment to ensure good comments  |
-|2 |             | Program 1- Vector of Linked Lists   |
-|3 |             | Program 2-Overloaded Operators      |
-|4 |             | Program 3A                          |
-|5 |             | OOP Terms and Definitions           |
-|6 |             | Program 3B                          |
+|1 |[A03](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/blob/main/Assignments/A03.cpp)     | Banner Page                         | 
+|2 |[A04](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/blob/main/Assignments/A04.cpp)           | Assignment to ensure good comments  |
+|2 |[P01](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/tree/main/Assignments/P01)            | Program 1- Vector of Linked Lists   |
+|3 |[P02](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/tree/main/Assignments/P02)            | Program 2-Overloaded Operators      |
+|4 |[P03A](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/tree/main/Assignments/P03A)            | Program 3A                          |
+|5 |[A05](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/tree/main/Assignments/OOP_Primer)           | OOP Terms and Definitions           |
+|6 |[P03B](https://github.com/ashtonwebb242/2143-OOP-Ashton-Webb/tree/main/Assignments/PO3B)           | Program 3B                          |
