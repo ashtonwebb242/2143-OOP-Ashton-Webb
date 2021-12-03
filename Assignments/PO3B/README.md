@@ -16,3 +16,6 @@ A match up between Defenders and Attackers. Different types of characters are Wa
 |4 |input.txt    | Input file running the names of the differnt attackers|                 
 |5 |output.txt   | Shows the output/ death:kill ratio in real time.       |                 
 |6 |summary.txt  | Summarizes the number of rounds and winne  and any stats from the battle.|
+
+## Instructions:
+Run the program and it will shoe a live update of what is going on in the battle.
