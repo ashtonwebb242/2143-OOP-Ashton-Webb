@@ -1,5 +1,5 @@
 # PO3A- Bolniverse Fight CLub Part 1
-Ashton Webb
+## Ashton Webb
 
 Description:
 This program provides players with either rock, paper, scissors, lizard, or spock; 
