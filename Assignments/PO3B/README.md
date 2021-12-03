@@ -1,6 +1,8 @@
 # PO3A- Bolniverse Fight CLub Part 1
 ## Ashton Webb
 
+### Description:
+A match up between Defenders and Attackers. Different types of characters are Warriors, Wizards, Archers, Elfs, and DragonBorns. Each different character has a different attack type.
 
 ### List of Files:
 |# | File        |  Description                                          |
