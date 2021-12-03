@@ -13,3 +13,5 @@ Files
 |1 |[input.dat]  | Numbers t be read in by the vector  |
 |1 |[test.out]   |Outfile being Printed out.           |
 
+Instructions:
+Run the program and it will print out the integers in the Vector.
